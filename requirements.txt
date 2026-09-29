@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+scikit-learn
+shap
+matplotlib
+jinja2
+pytest
+httpx
